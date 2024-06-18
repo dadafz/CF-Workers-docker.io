@@ -35,7 +35,7 @@ sudo systemctl restart docker
 ## 变量说明
 | 变量名 | 示例 | 必填 | 备注 | 
 |--|--|--|--|
-| URL302 | https://t.me/CMLiussss |❌| 主页302跳转 |
+| URL302 | https://www.baidu.com/ |❌| 主页302跳转 |
 | URL | https://www.baidu.com/ |❌| 主页伪装(设为`nginx`则伪装为nginx默认页面) |
 
 
